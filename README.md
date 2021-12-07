@@ -3,8 +3,11 @@
 ## Installation Steps
 
   Fork and Clone this repository
+  
   Install pip
+  
   Install pygame with pip
+  
   Run main.py in the terminal!
   
 ## How To Use
