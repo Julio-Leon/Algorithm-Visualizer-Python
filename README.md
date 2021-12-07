@@ -12,10 +12,14 @@
   
 ## How To Use
 
-  First Click sets starting point
-  Next Click sets ending point, if there is already a starting one
-  Then the clicks after that, set barriers
-  Press Space Bar to start algorithm
-  Right click on any selected square to remove its state
+  - First Click sets starting point
+  
+  - Next Click sets ending point, if there is already a starting one
+  
+  - Then the clicks after that, set barriers
+  
+  - Press Space Bar to start algorithm
+  
+  - Right click on any selected square to remove its state
   
 ### Have Fun!
